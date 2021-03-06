@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a167bcf-d723-4f5c-8f8d-f8c0e5f90907" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lKpOf2lson03OMIDXN7xrpKnNn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a167bcf-d723-4f5c-8f8d-f8c0e5f90907" name="Default Changelist" comment="" />
+      <created>1607355607447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607355607447</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1614969038448">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="105" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1614969038448" />
+    <state width="1323" height="274" key="GridCell.Tab.0.bottom" timestamp="1607356352247">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="274" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1607356352247" />
+    <state width="1323" height="274" key="GridCell.Tab.0.center" timestamp="1607356352247">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="274" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1607356352247" />
+    <state width="1323" height="274" key="GridCell.Tab.0.left" timestamp="1607356352247">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="274" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1607356352247" />
+    <state width="1323" height="274" key="GridCell.Tab.0.right" timestamp="1607356352247">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="274" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1607356352247" />
+    <state x="184" y="11" key="SettingsEditor" timestamp="1607356154868">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1607356154868" />
+    <state x="0" y="0" width="607" height="738" key="find.popup" timestamp="1607356138335">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="0" width="607" height="738" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1607356138335" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1607356172156">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1607356172156" />
+  </component>
+</project>

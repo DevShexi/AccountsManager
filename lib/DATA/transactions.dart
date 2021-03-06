@@ -1,0 +1,98 @@
+List transactions = [
+  {
+    "ammount": "1290",
+    "date": "24-12-2020",
+    "accountName": "Inhand Transfer",
+    "accountNumber": "",
+  },
+  {
+    "ammount": "340",
+    "date": "24-12-2020",
+    "accountName": "Easy Pesa",
+    "accountNumber": "12345678",
+  },
+  {
+    "ammount": "190",
+    "date": "24-12-2020",
+    "accountName": "Bank Al-habib",
+    "accountNumber": "12345678",
+  },
+  {
+    "ammount": "1000",
+    "date": "24-12-2020",
+    "accountName": "United Bank Limited",
+    "accountNumber": "12345678",
+  },
+  {
+    "ammount": "900",
+    "date": "24-12-2020",
+    "accountName": "Inhand Transfer",
+    "accountNumber": "",
+  },
+  {
+    "ammount": "1290",
+    "date": "24-12-2020",
+    "accountName": "JazzCash",
+    "accountNumber": "12345678",
+  },
+  {
+    "ammount": "230",
+    "date": "24-12-2020",
+    "accountName": "JazzCash",
+    "accountNumber": "12345678",
+  },
+  {
+    "ammount": "450",
+    "date": "24-12-2020",
+    "accountName": "Easypesa",
+    "accountNumber": "12345678",
+  },
+  {
+    "ammount": "1290",
+    "date": "24-12-2020",
+    "accountName": "Inhand Transfer",
+    "accountNumber": "",
+  },
+  {
+    "ammount": "340",
+    "date": "24-12-2020",
+    "accountName": "Easy Pesa",
+    "accountNumber": "12345678",
+  },
+  {
+    "ammount": "190",
+    "date": "24-12-2020",
+    "accountName": "Bank Al-habib",
+    "accountNumber": "12345678",
+  },
+  {
+    "ammount": "1000",
+    "date": "24-12-2020",
+    "accountName": "United Bank Limited",
+    "accountNumber": "12345678",
+  },
+  {
+    "ammount": "900",
+    "date": "24-12-2020",
+    "accountName": "Inhand Transfer",
+    "accountNumber": "",
+  },
+  {
+    "ammount": "1290",
+    "date": "24-12-2020",
+    "accountName": "JazzCash",
+    "accountNumber": "12345678",
+  },
+  {
+    "ammount": "230",
+    "date": "24-12-2020",
+    "accountName": "JazzCash",
+    "accountNumber": "12345678",
+  },
+  {
+    "ammount": "450",
+    "date": "24-12-2020",
+    "accountName": "Easypesa",
+    "accountNumber": "12345678",
+  },
+];
