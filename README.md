@@ -1,6 +1,6 @@
-# myShop
+# Accounts Manager
 
-A new Flutter project.
+A Flutter BLoC conceptual app to combine all the financial applications under the hood of a single mobile app.
 
 ## Getting Started
 
